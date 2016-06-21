@@ -1,0 +1,1190 @@
+@charset "utf-8";
+#quienessomos {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#legal {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#footer {
+	background-color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	height: auto;
+}
+#navbar {
+	height: 61px;
+	border-bottom-color: #44C1B5;
+	border-bottom-width: medium;
+}
+#navcontent {
+	padding-left: 0px;
+	float: none;
+	right: 0px;
+	margin-top: -7px;
+	margin-right: 0px;
+	padding-top: 12px;
+
+}
+#entrar {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	border-color: #44C1B5;
+}
+#registrarse {
+	background-color: #FFFFFF;
+	border-color: #44C1B5;
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	border-style: solid;
+}
+#logo {
+	margin-top: 4px;
+}
+#jumbo {
+	margin-top: 25px;
+	margin-bottom: 15px;
+}
+#inicio {
+	background-color: #44C1B5;
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	border-color: #EFE92E;
+}
+#derechos {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#contact {
+	margin-top: 1px;
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#contactar {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	border-color: #44C1B5;
+}
+#paquetesenpromocion {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#promocion1 {
+	background-color: #44C1B5;
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#captionpromo1 {
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#comprar {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #000000;
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+#promocion2 {
+	background-color: #44C1B5;
+}
+#promocion3 {
+	background-color: #44C1B5;
+}
+#captionpromo2 {
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#comprar2 {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	border-color: #FFFFFF;
+}
+#captionpromo3 {
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#comprar3 {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	border-color: #FFFFFF;
+}
+#termycondicions {
+	width: 1024px;
+	text-align: justify;
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#promocion4 {
+	background-color: #44C1B5;
+}
+#captionpromo4 {
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#comprar4 {
+	color: #000000;
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+#promocion5 {
+	background-color: #44C1B5;
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#captionpromo5 {
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#comprar5 {
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+#promocion6 {
+	background-color: #44C1B5;
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#captionpromo6 {
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#comprar6 {
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#promocion7 {
+	background-color: #44C1B5;
+}
+#captionpromo7 {
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#comprar7 {
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+#tequila2 {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	border-width: medium;
+	border-color: #44C1B5;
+}
+#tequila2capt {
+	background-color: #FFFFFF;
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checktequila2 {
+	text-align: center;
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: normal;
+}
+#tequila3 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#tequila3capt {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checktequila3 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#instucciones {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#paquete1header {
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#tequilaheader {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#tequila4 {
+	border-width: medium;
+	border-color: #44C1B5;
+}
+#tequila4capt {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checktequila4 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#tequila1 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#tequila1capt {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checktequila1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#tequila5 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#tequila5capt {
+	color: #44C1B5;
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+}
+#checktequila5 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#tequila6 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#tequila6capt {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#tequila7 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#tequila7capt {
+	color: #44C1B5;
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+}
+#checktequila7 {
+	text-align: center;
+}
+#tequila8 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#tequila8capt {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #44C1B5;
+	font-size: small;
+}
+#checktequila8 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#tequila9 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#tequila9capt {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checktequila9 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#tequila10 {
+	border-color: #44C1B5;
+	border-width: medium;
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#tequila10capt {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+}
+#checktequila10 {
+	text-align: center;
+}
+#tequila11 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#tequila11capt {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checktequila11 {
+	text-align: center;
+}
+#tequila12 {
+	border-width: medium;
+	border-color: #44C1B5;
+}
+#tequila12capt {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checktequila12 {
+	text-align: center;
+}
+#tequila13 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#tequila13capt {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checktequila13 {
+	text-align: center;
+}
+#tequila14 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#tequila14capt {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #44C1B5;
+	text-align: center;
+	font-size: small;
+}
+#checktequila14 {
+	text-align: center;
+}
+#terminosycondicions {
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#paquetes {
+	color: #44C1B5;
+}
+#trmsandcnditions {
+	color: #000000;
+}
+#paquete4 {
+}
+#paquete1 {
+	background-color: #44C1B5;
+}
+#paquete2 {
+	background-color: #44C1B5;
+}
+#paquete3 {
+	background-color: #44C1B5;
+}
+#paquete4 {
+	background-color: #44C1B5;
+}
+#paquete5 {
+	background-color: #44C1B5;
+}
+#paquete6 {
+	background-color: #44C1B5;
+}
+#paquetesheader {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#ron1 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#ron1cont {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkron1 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#ron2 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contron2 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkron2 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#ron3 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contron3 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#chekron3 {
+	text-align: center;
+}
+#ron4 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contron4 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkron4 {
+	text-align: center;
+}
+#ron5 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contron5 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkron5 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#ron6 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contron6 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #44C1B5;
+	text-align: center;
+	font-size: small;
+}
+#checkrum6 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#rum7 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contrum7 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkrum7 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#rum8 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contrum8 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkrum8 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#rum9 {
+	border-color: #44C1B5;
+	border-width: medium;
+	color: #44C1B5;
+}
+#contrum9 {
+	text-align: center;
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+}
+#checkrum9 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#rum10 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contrum10 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkrum10 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#rum11 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contrum11 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkrum11 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#rum12 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contrum12 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkrum12 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#rum13 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contrum13 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkrum13 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#vodka1 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contvodka1 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkvodka1 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#vodka2 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captvodka2 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkvodka2 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#vodka3 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captvodka3 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkvodka3 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#vodka4 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contvodka4 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#ronheader {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#vodkaheader {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#checkvodka4 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#vodka5 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contvodka5 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkvodka5 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#vodka6 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contvodka6 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkvodka6 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#vodka7 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contvodka7 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkvodka7 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#vodka8 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captvodka8 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkvodka8 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#vodka9 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captvodka9 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkvodka9 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#checktequila6 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#tequila7 {
+}
+#checkron3 {
+}
+#checkvodka2 {
+}
+#whisky1 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky1 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkwhisky1 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#whisky2 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky2 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#checkwhisky2 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#whisky3 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky3 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkwhisky3 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#whisky4 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky4 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#checkwhisky4 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#whisky5 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky5 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#checkwhisky5 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#whisky6 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky6 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#checkwhisky6 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#whisky7 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky7 {
+	text-align: center;
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+}
+#checkwhisky7 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#whisky8 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky8 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#checkwhisky8 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#whisky9 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky9 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#checkwhisky9 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#whisky10 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky10 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#checkwhisky10 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#whisky11 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#captwhisky11 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#checkwhisky11 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#quienessomostxt {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#quienessomos {
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#quienessomos {
+}
+#quienessomos {
+}
+#quienessomos {
+}
+#termycondicions {
+}
+#quienessomos {
+}
+#quienessomos {
+}
+#ventajas {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#whiskyheader {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#brandyheader {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#digestivoheader {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#contbrandy1 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#brandy1 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#checkbrandy1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#brandy2 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contbrandy2 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkbrandy2 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#brandy3 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contbrandy3 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkbrandy3 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#brandy4 {
+	border-color: #44C1B5;
+	border-width: medium;
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#contbrandy4 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkbrandy4 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#brandy5 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contbrandy5 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkbrandy5 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#digestivo1 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contdigestivo1 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkdigestivo1 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#digestivo2 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contdigestivo2 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkdigestivo2 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#digestivo3 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contdigestivo3 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkdigestivo3 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#digestivo4 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contdigestivo4 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkdigestivo4 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#digestivo5 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contdigestivo5 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkdigestivo5 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#digestivo6 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contdigestivo6 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkdigestivo6 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#digestivo7 {
+	border-width: medium;
+	border-color: #44C1B5;
+}
+#contdigestivo7 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: small;
+}
+#checkdigestivo7 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#digestivo8 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contdigestivo8 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#checkdigestivo8 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#digestivo9 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contdigestivo9 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}
+#checkdigestivo9 {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#digestivo10 {
+	border-color: #44C1B5;
+	border-width: medium;
+}
+#contdigestivo10 {
+	color: #44C1B5;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+
+}
+#checkdigestivo10 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#paquete4 {
+}
+#paquete5 {
+}
+#paquete6 {
+	background-color: #44C1B5;
+}
+#paquete7 {
+	background-color: #44C1B5;
+}
+#comprar4 {
+}
+#captionpromo6 {
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#comprar5 {
+}
+#comprar6 {
+}
+#comprar7 {
+}
+#comprarbutton {
+	width: 300px;
+	background-color: #44C1B5;
+	border-color: #44C1B5;
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: large;
+}
+#aceptarcondiciones {
+	min-width: 300px;
+	background-color: #44C1B5;
+	color: #FFFFFF;
+}
+#quienessomos {
+}
+#quienessomos {
+}
+#tumblr {
+}
+#instagram {
+}
+#twitter {
+}
+#facebook {
+}
+#twitter {
+}
